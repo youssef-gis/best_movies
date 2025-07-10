@@ -89,7 +89,7 @@ function App() {
 
         <div className='wrapper' >
           <header>
-            <img src="/hero.png" alt="hero Banner"/>
+            <img src="/best_movies/hero.png" alt="hero Banner"/>
             <h1>Find <span className='text-gradient' >Movies</span> You will enjoy without Hastle</h1>
             <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm}  />
           </header>
